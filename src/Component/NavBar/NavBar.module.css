@@ -1,0 +1,20 @@
+ul li .facebook:hover {
+color:blue !important;
+
+}
+ul li .youtube:hover {
+color:rgb(255, 0, 0) !important;
+
+}
+ul li .twitter:hover {
+color:#09c !important;
+
+}
+ul li .instagram:hover {
+color:rgb(211, 102, 39) !important;
+
+}
+ul li .tiktok:hover {
+color:rgb(58, 6, 6) !important;
+
+}

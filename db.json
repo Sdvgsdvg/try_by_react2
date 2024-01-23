@@ -1,0 +1,120 @@
+{
+    "results": 56,
+    "metadata": {
+        "currentPage": 1,
+        "numberOfPages": 2,
+        "limit": 40,
+        "nextPage": 2
+    },
+    "data": [
+        {
+            "sold": 2142,
+            "images": [
+                "https://ecommerce.routemisr.com/Route-Academy-products/1680403397482-1.jpeg",
+                "https://ecommerce.routemisr.com/Route-Academy-products/1680403397482-2.jpeg",
+                "https://ecommerce.routemisr.com/Route-Academy-products/1680403397483-3.jpeg",
+                "https://ecommerce.routemisr.com/Route-Academy-products/1680403397485-4.jpeg"
+            ],
+            "subcategory": [
+                {
+                    "_id": "6407f1bcb575d3b90bf95797",
+                    "name": "Women's Clothing",
+                    "slug": "women's-clothing",
+                    "category": "6439d58a0049ad0b52b9003f"
+                }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428ebc6dc1175abc65ca0b9",
+            "title": "Woman Shawl",
+            "slug": "woman-shawl",
+            "description": "Material\tPolyester Blend\nColour Name\tMulticolour\nDepartment\tWomen",
+            "quantity": 220,
+            "price": 149,
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403397402-cover.jpeg",
+            "category": {
+                "_id": "6439d58a0049ad0b52b9003f",
+                "name": "Women's Fashion",
+                "slug": "women's-fashion",
+                "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": null,
+            "ratingsAverage": 4.8,
+            "createdAt": "2023-04-02T02:43:18.400Z",
+            "updatedAt": "2023-12-13T05:05:18.687Z",
+            "id": "6428ebc6dc1175abc65ca0b9"
+        },
+        {
+            "sold": 3568,
+            "images": [
+                "https://ecommerce.routemisr.com/Route-Academy-products/1680403266805-1.jpeg",
+                "https://ecommerce.routemisr.com/Route-Academy-products/1680403266806-3.jpeg",
+                "https://ecommerce.routemisr.com/Route-Academy-products/1680403266806-2.jpeg",
+                "https://ecommerce.routemisr.com/Route-Academy-products/1680403266807-4.jpeg"
+            ],
+            "subcategory": [
+                {
+                    "_id": "6407f1bcb575d3b90bf95797",
+                    "name": "Women's Clothing",
+                    "slug": "women's-clothing",
+                    "category": "6439d58a0049ad0b52b9003f"
+                }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428eb43dc1175abc65ca0b3",
+            "title": "Woman Shawl",
+            "slug": "woman-shawl",
+            "description": "Material\tPolyester Blend\nColour Name\tMulticolour\nDepartment\tWomen",
+            "quantity": 220,
+            "price": 149,
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403266739-cover.jpeg",
+            "category": {
+                "_id": "6439d58a0049ad0b52b9003f",
+                "name": "Women's Fashion",
+                "slug": "women's-fashion",
+                "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": null,
+            "ratingsAverage": 4.8,
+            "createdAt": "2023-04-02T02:41:07.506Z",
+            "updatedAt": "2023-12-14T21:24:15.023Z",
+            "id": "6428eb43dc1175abc65ca0b3"
+        },
+        {
+            "sold": 3821,
+            "images": [
+                "https://ecommerce.routemisr.com/Route-Academy-products/1680403156555-3.jpeg",
+                "https://ecommerce.routemisr.com/Route-Academy-products/1680403156555-2.jpeg",
+                "https://ecommerce.routemisr.com/Route-Academy-products/1680403156554-1.jpeg",
+                "https://ecommerce.routemisr.com/Route-Academy-products/1680403156556-4.jpeg"
+            ],
+            "subcategory": [
+                {
+                    "_id": "6407f1bcb575d3b90bf95797",
+                    "name": "Women's Clothing",
+                    "slug": "women's-clothing",
+                    "category": "6439d58a0049ad0b52b9003f"
+                }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428ead5dc1175abc65ca0ad",
+            "title": "Woman Shawl",
+            "slug": "woman-shawl",
+            "description": "Material\tPolyester Blend\nColour Name\tMulticolour\nDepartment\tWomen",
+            "quantity": 220,
+            "price": 149,
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403156501-cover.jpeg",
+            "category": {
+                "_id": "6439d58a0049ad0b52b9003f",
+                "name": "Women's Fashion",
+                "slug": "women's-fashion",
+                "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": null,
+            "ratingsAverage": 4.8,
+            "createdAt": "2023-04-02T02:39:17.204Z",
+            "updatedAt": "2023-12-15T06:18:35.508Z",
+            "id": "6428ead5dc1175abc65ca0ad"
+        }
+       
+    ]
+}

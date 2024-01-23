@@ -1,0 +1,15 @@
+.form {
+    background-color: #cfd0d09d;
+    padding: 10px 20px;
+    width: 50%;
+    margin: 20px auto;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+form label{
+    color:black;
+    font-weight: 600;
+}
